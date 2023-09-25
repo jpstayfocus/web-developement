@@ -7,6 +7,5 @@ web-development
 - React
 - Git
 
-### how the web works?
-Click [here](https://github.com/jpstayfocus/how-web-works)
+### [how the web works?](https://github.com/jpstayfocus/how-web-works)
 
